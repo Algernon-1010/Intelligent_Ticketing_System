@@ -1,0 +1,26 @@
+# IntelliJ IDEA local state
+.idea/workspace.xml
+.idea/shelf/
+.idea/httpRequests/
+.idea/dataSources/
+.idea/libraries/lib3.xml
+
+# Compiled and generated output
+/out/
+/classes/
+/build/
+*.class
+
+# Local crawler/cache files
+__pycache__/
+*.pyc
+/crawler.zip
+
+# Local secrets and environment overrides
+.env
+src/ai.local.properties
+src/db.properties
+
+# Operating-system files
+.DS_Store
+Thumbs.db
